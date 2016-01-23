@@ -7,6 +7,7 @@
 // @include      https://www.toodledo.com/tasks/quickadd*
 // @grant        GM_setClipboard
 // ==/UserScript==
+
 (function () {
     function addExitKeyListener() {
         var element = document.getElementById('TDL_close');
