@@ -3,8 +3,8 @@
 // @namespace    https://www.toodledo.com/
 // @version      0.1
 // @description  Toodledo plugin to show the task url;
-// @author       You
-// @match        https://www.toodledo.com/tasks/quickadd*
+// @author       Ceco
+// @include      https://www.toodledo.com/tasks/quickadd*
 // @grant        GM_setClipboard
 // ==/UserScript==
 (function () {
