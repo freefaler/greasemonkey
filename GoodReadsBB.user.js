@@ -616,7 +616,7 @@ if (windowHostname == 'www.goodreads.com') {
 
 	getAuthors(); // for debug
 	getBookInfo(false); // for debug
-	//printInfo(); // for debug
+	//printInfo(); // for debug and more debug
 }
 if (windowLocation.indexOf("requests") >= 0) {
 	createRequest();
