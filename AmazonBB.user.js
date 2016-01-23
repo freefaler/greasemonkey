@@ -12,6 +12,7 @@
 // @include       	*://bibliotik.me/upload/ebooks*
 // @include         *://bibliotik.me/requests/create/ebooks*
 // @require       	https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
+// comment
 // ==/UserScript==
 
 var axisLibraries = []; // ["lib1", "lib2", "lib3"] or [] if none
